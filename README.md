@@ -29,7 +29,7 @@ GraphQL is becoming popular in the tech industry as a replacement for REST. It r
 
 Here we will bw discussing 3 possible solution architecture patterns that can be used to implement systems with GraphQL.
 
-### 1. **GraphQL Server exposing database**
+### 1. **GraphQL Server Exposing Database**
 
 - This is the fundamental use case of the GraphQL. That is to expose a database in a much more controlled manner with additional capabilities like caching.
 
@@ -41,13 +41,13 @@ Here we will bw discussing 3 possible solution architecture patterns that can be
 
 ![image2](GraphQL-Pattern-2-integration-hub.png)
 
-### 3. **GraphQL hybrid integration**
+### 3. **GraphQL Hybrid Integration**
 
 - GraphQL hybrid integration In this pattern, GraphQL server has its own connected database and it will also connect to external systems.
 
 ![image3](GraphQL-Pattern-3-hybrid-integration.png)
 
-### **GraphQL ecosystem**
+### **GraphQL Ecosystem**
 
 &nbsp;
 ![image4](word-image-9.png)
