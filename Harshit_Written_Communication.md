@@ -1,14 +1,14 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**GraphQL**
+# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;  **GraphQL**
 
-&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;***Harshit Dangwal*** \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Trainee Software Engineer* \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*Mount Blue Technology* \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *<harshit.dangwal.19.1@mountblue.tech>*
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;
+ ***Harshit Dangwal*** \
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; *Trainee Software Engineer* \
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; *Mount Blue Technology* \
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; *<harshit.dangwal.19.1@mountblue.tech>*
 
 ### **Abstract :**
 
-GraphQL comes in role by **Facebook** mentioning some problems about query language related to **APIs**.
+GraphQL was developed by **Facebook** mentioning some problems about query language related to **APIs**.
 GraphQL was used internally for their mobile applications to reduce network usage by means of its specific data-fetching capabilities.
 
 so, it says *Ask for what you need,&nbsp;
@@ -48,11 +48,13 @@ Here we will bw discussing 3 possible solution architecture patterns that can be
 
 ![image3](GraphQL-Pattern-3-hybrid-integration.png)
 
-### **GraphQL ecosystem** 
+### **GraphQL ecosystem**
+
 &nbsp;
 ![image4](word-image-9.png)
 
 ### **Conclusion**
+
 GraphQL is designed to make APIs fast, flexible, and developer-friendly. It can even be deployed within an integrated development environment (IDE) known as GraphiQL.\
 As an alternative to REST, GraphQL lets developers construct requests that pull data from multiple data sources in a single API call.  
 
